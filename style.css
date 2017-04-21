@@ -96,9 +96,9 @@ margin: 0;
 }
 
 .p2_content p{
-   font-family: 'Nixie One', cursive;
-    font-size: 20px;
-    font-weight: 500;
+   
+    font-size: 19px;
+    font-weight: 100;
     padding-top: 20px;
     padding-bottom: 20px;
 }
@@ -311,5 +311,5 @@ font-weight: 100;
 
 .footer_columns a{
 	color:  #fff !important;
-	 font-family: 'Nixie One', cursive;
+	 
 }
