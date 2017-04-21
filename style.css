@@ -1,0 +1,315 @@
+.banner{
+	background-image: url('img2.jpg');
+width: 100%;
+height: 110vh;
+
+}
+
+.mynavbar{
+	border: 0;
+	border-radius: 0;
+	background: none;
+}
+
+.mynavbar .navbar-nav li a{
+color: white;
+}
+
+.mynavbar .navbar-brand{
+	color: white;
+}
+
+.mynavbar .navbar-nav .dropdown-menu li a{
+	color: #2a2a2a;
+}
+
+#logo strong{
+	background: #fff;
+	padding:12px;
+	border-radius: 4px;
+	color: #28669f;
+}
+
+#navigation{
+	padding-top: 30px;
+}
+
+.bottom_img{
+	
+margin-top : -358px;
+
+}
+
+#button2{
+	background:  #2595FF;
+	padding-left :50px;
+	padding-right :50px;
+	border-radius: 4px;
+	color:#fff;
+	margin-left: 10px;
+}
+#button2:hover { 
+    background-color: #007cf1;
+    
+}
+
+.p1-content h1 {
+	color: white;
+	padding: 10px ;
+
+}
+.p1-content p {
+	color: white;
+	padding: 10px ;
+	font-size: 19px;
+	    line-height: 1.3;
+color: rgba(255, 255, 255, .7);
+}
+
+.p1-content {
+	margin-top: 140px;
+
+}
+
+.second_page{
+	background:url('2nd_page.png');
+width: 100%;
+
+}
+.second_page{
+	margin-top:100px; 
+}
+.p2_content strong {
+    letter-spacing: 2px;
+    color:#BEC8CE;
+    padding:0;
+    margin-top: 20px;
+}
+.p2_img{
+
+}
+.p2_content h2{
+margin: 0;
+}
+.p2_content{
+ margin-top: 180px;
+}
+
+.p2_content p{
+   font-family: 'Nixie One', cursive;
+    font-size: 20px;
+    font-weight: 500;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.p2_sub_content{
+	text-align: left;
+}
+
+.third_page{
+	padding-top: 210px;
+	padding-bottom: 100px;
+	background-color: #262F36;
+}
+#p3_head{
+	letter-spacing: 2px;
+   color:  rgba(255, 255, 255, .7) !important;
+    
+}
+
+.p3-content{
+	text-align: left;
+	padding-top: 90px;
+	padding-bottom: 30px;
+} 
+
+.p3-content h2	{
+color:#fff;
+margin-top: 5px  ;
+}
+
+.p3-content p{
+	padding-bottom: 20px;
+	font-size: 17px;
+	color:  rgba(255, 255, 255, .7) !important;
+}
+#button3{
+	background:  #fff;
+padding:12px 50px;
+	border-radius: 4px;
+	color:#292b2c;
+	
+	font-size: 19px;
+
+}
+#button3:hover { 
+    background-color: #ccc;
+    
+}
+
+.ac{
+	padding: 50px 20px 50px 50px;
+	font-size: 15px;
+	color: #6EA4CF;
+	
+	background: transparent;
+	border: #495158 1px solid;
+	border-right: none;
+}
+
+.fourth_page{
+	background-image: url('img4.jpg');
+width: 100%;
+height: 100vh;
+background-position:center; 
+
+}
+.p4_content{
+		margin-top: 150px;
+	
+	
+}
+
+.p4_content h2{
+	color: #fff;
+	font-weight: bold;
+	padding-bottom: 20px;
+}
+.p4_content p{
+color:  rgba(255, 255, 255, .7) !important;
+}
+
+.clients{
+	background-color: #2595FF;
+	padding-top: 40px;
+	padding-bottom: 40px;
+    text-align: center;
+}
+
+.clients img{
+	padding-left:  30px;
+	padding-right: 30px;
+	padding-top: 10px
+
+}
+
+.tnw_logo {
+	 margin-top: -17px ;
+}
+
+.images{
+
+}
+
+
+
+.fifth_page{
+	padding: 110px 0px 80px;
+	text-align: center;
+}
+
+#p5_head{
+	letter-spacing: 2px;
+   color:  #BEC8CE !important;
+    
+}
+
+.fifth_page h2{
+	margin-top: 0;
+	padding-bottom: 60px;
+}
+
+.fifth_page p{
+	padding-bottom: 40px;
+	padding-top: 10px;
+	font-size: 17px;
+	color: #6c6f73 !important;
+}
+
+.sixth_page{
+padding: 110px 0px 80px;
+	background-color: #F4F5F6;
+	text-align: center;
+}
+
+.packages span{
+	display: block;
+}
+.packages li{
+	list-style: none;
+	color: #6c6f73 !important;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	text-align: left !important;
+}
+
+.packages hr {
+height: 1px;
+color: #BEC8CE;
+background-color: #BEC8CE;
+border: none;
+}
+
+.sixth_page h2{
+	margin-top: 0;
+	padding-bottom: 60px;
+}
+
+.sixth_page p{
+	padding-bottom: 20px;
+	padding-top: 20px;
+	font-size: 17px;
+	color: #6c6f73 !important;
+}
+
+.sixth_page img{
+padding-top: 20px;
+}
+
+.packages{
+margin: 15px;
+padding-bottom:5px; 
+}
+
+#button4{
+	background: #2595FF; ;
+padding:12px 146px;
+	border-radius: 4px;
+	color:#fff;
+	width: 100%;
+	font-size: 18px;
+
+}
+
+.footer{
+	    background-color: #262F36;
+	    padding-top: 100px;
+	    padding-bottom: 150px;
+	    padding-left: 14px;
+	    padding-right:14px;
+
+}
+
+
+.footer li{
+	font-weight: 100;
+list-style: none;
+color: rgba(255, 255, 255, .7) !important;
+}
+
+.footer p{
+color: rgba(255, 255, 255, .7) !important;
+font-weight: 100;
+}
+
+#footer_head{
+	letter-spacing: 2px;
+   color:  #fff !important;
+    
+}
+
+.footer_columns a{
+	color:  #fff !important;
+	 font-family: 'Nixie One', cursive;
+}
